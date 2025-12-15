@@ -6,9 +6,9 @@
   </em>
 </p>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Aziz-Zeghal.Aziz-Zeghal&" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aziz-Zeghal" alt="profile views" />
+</p>
 
 <hr/>
 
