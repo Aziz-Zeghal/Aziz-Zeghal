@@ -55,7 +55,3 @@
     <img src="https://stable-github-profile-trophy.vercel.app/?username=Aziz-Zeghal&theme=dracula&rank=-C" alt="trophies" />
   </a> 
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aziz-Zeghal" alt="profile views" />
-</p>
