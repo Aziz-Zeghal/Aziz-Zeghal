@@ -122,6 +122,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pop%21_OS_Icon.svg/960px-Pop%21_OS_Icon.svg.png?_=20230629012841" height="40" alt="Pop-Os" />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/claude/D97757" height="40" alt="Claude Code" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailscale/242424" height="40" alt="Tailscale" />
