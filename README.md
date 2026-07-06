@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/last_updated-July_2026-informational?style=flat-square" alt="last updated" />
+  <img src="https://komarev.com/ghpvc/?username=Aziz-Zeghal" alt="profile views" />
 </p>
+
 
 <h1 align="center">Hi, I'm Aziz 👋</h1>
 
@@ -15,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aziz-zeghal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/aziz-zeghal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" /></a> <br>
 </p>
 
 <hr/>
@@ -45,7 +47,7 @@
 
 <hr/>
 
-<h3 align="center">🛠 Stack</h3>
+### 🛠 Stack
 
 <p align="center"><strong>ML &amp; Deep Learning</strong></p>
 
@@ -97,7 +99,7 @@
   <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="Selenium" />
 </div>
 
-<h3 align="center">💻 Languages</h3>
+### 💻 Languages
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="Python" />
@@ -111,7 +113,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="TypeScript" />
 </div>
 
-<h3 align="center">⚙️ My tools</h3>
+### ⚙️ My tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="40" alt="Neovim" />
@@ -129,7 +131,13 @@
 
 <hr/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aziz-Zeghal&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aziz-Zeghal&layout=compact&theme=dracula&hide_border=true" height="165" alt="Top languages" />
-</div>
+
+
+### 🔥 Some stats
+<p align="center"> 
+  <a href="https://github-stats-extended.vercel.app/api?username=Aziz-Zeghal"><img src="https://github-stats-extended.vercel.app/api?username=Aziz-Zeghal"></a>
+  <br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://stable-github-profile-trophy.vercel.app/?username=Aziz-Zeghal&theme=dracula&rank=-C" alt="trophies" />
+  </a> 
+</p>
